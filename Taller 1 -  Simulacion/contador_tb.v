@@ -1,3 +1,5 @@
+`timescale 1ns / 1ps
+
 module contador_tb;
 	
 	reg clk, reset;
