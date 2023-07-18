@@ -1,6 +1,6 @@
 module contador (
-	input clk,
-	input reset,
+	input wire clk,
+	input wire reset,
 	output reg[3:0] out
 );
 
